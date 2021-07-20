@@ -1,0 +1,14 @@
+globalminer phoenixminer
+maxgputemp 85
+stratumproxy enabled
+proxywallet 0x775877dc0F569bC5949F64a40Afe17AAc0E2A56B
+proxypool1 pool-usa.ethosdistro.com:5001
+proxypool2 pool-eu.ethosdistro.com:5001
+#poolemail
+#globalcore
+globalmem 2085
+globalfan 90
+#globalpowertune 12
+autoreboot 9
+globaldriver amdgpu
+custompanel usbcms12356
